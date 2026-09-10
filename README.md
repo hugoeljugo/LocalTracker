@@ -45,8 +45,8 @@ Este proyecto se desarrolla asumiendo que VALORANT y el Riot Client **no están 
 ## Instalación
 
 ```bash
-git clone https://github.com/hugoeljugo/<nombre-del-repo>.git
-cd <nombre-del-repo>
+git clone https://github.com/hugoeljugo/LocalTracker.git
+cd LocalTracker
 cargo build
 ```
 
