@@ -108,4 +108,4 @@ Las inserciones usan `INSERT OR IGNORE` dentro de una transacción por partida, 
 
 ## Licencia
 
-Todavía no se ha definido una licencia formal para este proyecto.
+Este proyecto está licenciado bajo la [GNU General Public License v3.0](LICENSE).
