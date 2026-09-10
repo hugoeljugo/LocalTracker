@@ -1,0 +1,13 @@
+{
+  "Subject": "12345678-abcd-1234-abcd-1234567890ab",
+  "BeginIndex": 0,
+  "EndIndex": 1,
+  "Total": 1,
+  "History": [
+    {
+      "MatchID": "98765432-fedc-9876-fedc-0987654321fe",
+      "GameStartTime": 1715000000000,
+      "QueueID": "competitive"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.mocked_access_token",
+  "entitlements": [],
+  "issuer": "https://auth.riotgames.com",
+  "subject": "12345678-abcd-1234-abcd-1234567890ab",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.mocked_entitlement_token"
+}
